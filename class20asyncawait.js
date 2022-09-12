@@ -25,27 +25,3 @@ async function foo(){
 foo();
   
 
-
-
-
-
-
-//try catch error;--
-    
-
-// function bar(){
-//     return new Promise((resolve,reject)=>{
-//      reject("this is rejected!!!");
-//     });
-// }
-
-// async function foo(){
-//     try {
-//      let res=await bar();
-//      console.log(res);
-//      }
-//     catch (error) {
-//         console.log(error);
-//     }
-// }
-
